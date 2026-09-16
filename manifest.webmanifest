@@ -1,0 +1,11 @@
+{
+  "name": "我的月曆",
+  "short_name": "月曆",
+  "description": "可離線使用的個人月曆、活動與記帳工具",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2F2F0",
+  "theme_color": "#3F6659"
+}
